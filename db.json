@@ -1,0 +1,13 @@
+{
+  "Doctors": [
+    {
+      "fullname": "Ngetich Kimutai Daniel",
+      "appmtCost": "KSH 2000",
+      "registrationNo": "323",
+      "phoneNO": "0720591954",
+      "location": "Nakuru",
+      "categry": "Nephrologists",
+      "id": 1
+    }
+  ]
+}

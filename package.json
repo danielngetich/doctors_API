@@ -1,0 +1,25 @@
+{
+    "name": "doctors-api",
+    "version": "1.0.0",
+    "description": "json database for doctors",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "json-server,heroku, node, REST API"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/danielngetich/doctors_API.git"
+    },
+    "author": "Ngetich Daniel",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/danielngetich/doctors_API.git/issues"
+    },
+    "dependencies": {
+      "json-server": "^0.17.0"
+    }
+  }
